@@ -3,6 +3,7 @@
 Olá! Bem vindo ao meu cardápio:wave:
 
 - X-Tudo
+- X-Egg
 
 
 
